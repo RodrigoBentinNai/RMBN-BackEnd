@@ -1,0 +1,1 @@
+[{"title":"Nuevo título","description":"Holcim, bolsa x 50 kg","price":6000,"thumbnail":"imagen no disponible","code":"og1","stock":20000,"id":1},{"title":"Revoque Fino","description":"Klaukol, bolsa x 25 kg","price":3000,"thumbnail":"imagen no disponible","code":"og3","stock":50000,"id":3}]
