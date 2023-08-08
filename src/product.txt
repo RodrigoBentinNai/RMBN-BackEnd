@@ -1,0 +1,5 @@
+[{"title":"Cemento","description":"Holcim, bolsa x 50 kg","price":6000,"thumbnail":"imagen no disponible","code":"og1","stock":20000,"id":1},
+{"title":"Hercal","description":"Holcim, bolsa x 40 kg","price":4000,"thumbnail":"imagen no disponible","code":"og2","stock":30000,"id":2},
+{"title":"Revoque Fino","description":"Klaukol, bolsa x 25 kg","price":3000,"thumbnail":"imagen no disponible","code":"og3","stock":50000,"id":3}
+{"title":"Arena","description":"Gruesa en Big Bag x 1500 kg","price":8500,"thumbnail":"imagen no disponible","code":"og4","stock":10000,"id":4},
+{"title":"Arena","description":"Fina en Big Bag x 1500 kg","price":11000,"thumbnail":"imagen no disponible","code":"og5","stock":2000,"id":5}]
